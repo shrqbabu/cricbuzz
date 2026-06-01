@@ -1,6 +1,7 @@
-import {Home} from "./pages/HomePage";
-
 export default function App() {
-  return (  <Home/>;
-      }  
+  return (
+    <div>
+      <h1>Ready to build</h1>
+    </div>
+  );
 }
