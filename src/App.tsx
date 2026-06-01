@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import HomePage from "./pages/HomePage";
-import MatchDetailsPage from "./pages/MatchDetailsPage";
+import {HomePage} from "./pages/HomePage";
+import {MatchDetailsPage} from "./pages/MatchDetailsPage";
 
 export default function App() {
   return (
